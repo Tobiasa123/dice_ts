@@ -191,3 +191,6 @@ footer button {
   grid-column: 3 / 4;
   grid-row: 3 / 4;
 }
+.hide{
+  pointer-events: none;
+}
